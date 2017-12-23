@@ -1,0 +1,1 @@
+Smart contract for private client for CryptoFund.
